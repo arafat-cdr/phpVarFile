@@ -1,0 +1,3 @@
+# phpVarFile
+
+Assign dynamic Variable value in php file form input value or any given value ....
